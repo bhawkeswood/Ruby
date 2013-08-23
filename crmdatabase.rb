@@ -1,4 +1,7 @@
+require "crmcontact"
+
 class Database
+  
   @contacts = []
   @id = 1000
 
